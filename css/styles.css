@@ -683,6 +683,7 @@ ul {
   border: 1px solid rgba(0, 0, 0, 0.1);
   background: var(--studio-bottom-color);
   border-radius: 50%;
+  cursor: pointer;
 }
 .is-hidden {
   opacity: 0;
