@@ -117,6 +117,7 @@ img {
 .header-contact-list {
   display: flex;
   margin-left: auto;
+  align-items: center;
 }
 
 .header-nav-item:not(:last-child) {
@@ -139,6 +140,8 @@ img {
 .contact-icon {
   margin-right: 10px;
   fill: currentColor;
+  /* display:flex;
+  align-items:center; */
 }
 .logo {
   font-family: "Raleway";
